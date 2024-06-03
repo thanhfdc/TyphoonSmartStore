@@ -1,0 +1,16 @@
+Link trang: https://webdienthoai.lc/
+Link trang: https://webdienthoai.lc/admin/login
+Tk user: mail của bạn/123456
+Tk admin: admin@gmail.com/admin123
+Lưu ý:
+1. Khi demo mình sẽ mở 1 tab cho user và 1 tab cho admin để k bị trùng session
+2. Vì là có send mail nên khi đăng ký tài khoản thì phải dùng mail thật nhen-<<<
+Trang card để thanh toán: https://stripe.com/docs/testing
+à cvc thì thật ra mình điền 3 số nào cũng dc, mới xem docs lại
+thẻ: 4242424242424242
+tháng chọn gì cũng được
+thống kê thì chỉ thống kê đơn đã hoàn thành nhé 
+tk admin: admin@gmail.com/123456
+tk nhân viên: nva@gmail.com/123456
+tk quản lý: qla@gmail.com/123456
+Đọc hết đám này nè
